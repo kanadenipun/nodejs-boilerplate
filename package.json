@@ -2,10 +2,14 @@
   "name": "nodejs-boilerplate",
   "version": "1.0.0",
   "description": "starter kit for nodejs server app",
-  "main": "index.js",
+  "main": "src/server.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node src/server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^1.14.1"
+  }
 }

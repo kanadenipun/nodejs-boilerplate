@@ -9,6 +9,9 @@ pids
 *.seed
 *.pid.lock
 
+#Webstorm
+.idea/
+
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
