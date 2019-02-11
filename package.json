@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-boilerplate",
+  "version": "1.0.0",
+  "description": "starter kit for nodejs server app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
